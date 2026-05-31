@@ -30,7 +30,7 @@ The objective was to validate endpoint telemetry collection and confirm successf
 
 ## Demo Video
 
-▶️ Add video here
+https://youtu.be/zaR065TA2Wg?si=ZAgvpPe5C2Rft0aH
 
 ---
 
