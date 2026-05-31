@@ -28,9 +28,11 @@ The objective was to validate endpoint telemetry collection and confirm successf
 
 ---
 
-## Demo Video
+## 🎥 Demo Video
 
-https://youtu.be/zaR065TA2Wg?si=ZAgvpPe5C2Rft0aH
+[![Rapid7 Agent Installation](./thumbnail.png)](https://youtube.com/watch?v=zaR065TA2Wg)
+
+Click image to watch demo.
 
 ---
 
